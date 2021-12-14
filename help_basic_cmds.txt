@@ -1,0 +1,29 @@
+    1  helm search wordpress
+    2  helm search hub wordpress
+    3  helm search 
+    4  helm search wordpress
+    5  helm search hub consul
+    6  helm search hub consul | grep hashicorp
+    7  helm repo
+    8  helm repo add
+    9  helm repo add bitnami https://charts.bitnami.com/bitnami
+   10  helm repo list
+   11  helm search repo wordpress
+   12  git clone https://github.com/arun-s83/helm.git
+   13  ls
+   14  helm repo list
+   15  helm install amaze-surf bitnami/apache
+   16  kubectl get pods
+   17  kubectl get svc
+   18  ls
+   19  ls -l
+   20  helm list
+   21  helm uninstall happy-browse
+   22  helm list
+   23  helm repo lit
+   24  helm repo list
+   25  helm repo remove hasicorp
+   26  helm repo remove hashicorp
+   27  cd helm/
+   28  history 
+   29  history > help_basic_cmds.txt
