@@ -1,0 +1,28 @@
+    1  helm repo add
+    2  helm repo add bitnami https://charts.bitnami.com/bitnami
+    3  helm repo lidt
+    4  helm repo list
+    5  helm list
+    6  helm history list
+    7  helm history list dazzling-web
+    8  helm history dazzling-web
+    9  helm history dazzling-web list
+   10  helm history dazzling-web 
+   11  helm list
+   12  helm upgrade dazzling-web
+   13  helm upgrade dazzling-web 
+   14  helm upgrade dazzling-web bitnami/nginx --version 9
+   15  helmlist
+   16  helm list
+   17  helm history list
+   18  helm history 
+   19  helm history dazzling-web
+   20  helm rollback dazzling-web
+   21  helm history dazzling-web
+   22  kubectl get pods
+   23  kubectl describe pod dazzling-web-nginx-786bc68bc-j5dc4 | grep Image
+   24  helm upgrade dazzling-web bitnami/nginx --version 9
+   25  git clone https://github.com/arun-s83/helm.git
+   26  cd helm/
+   27  history 
+   28  history > commands-list2.txt
